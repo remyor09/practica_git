@@ -1,2 +1,4 @@
-# practica_git
-Practica con git - cambio realizado en GitHub
+# invie
+Las guitarras más locas
+
+http://leonidasesteban.github.io/invie-responsive/
